@@ -131,7 +131,7 @@ footer a {
     color: #2690d4;
 }
 
-/*800px ve üstü için*/
+
 
 @media screen and (min-width:800px) {
    
@@ -141,7 +141,7 @@ footer a {
 }
 
 
-/*1200px ve üstü için*/
+
 
 @media screen and (min-width:1200px) {
     #section-b li {
